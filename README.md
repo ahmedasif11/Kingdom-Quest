@@ -18,4 +18,7 @@ A C++ SFML game where magical pets engage in exciting battles and dodge falling 
 ## 🚀 How to Run
 
 ```bash
-clear;g++ Game.cpp -o Game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio;./Game
+$ g++ Game.cpp -o Game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio;
+
+$ ./Game
+```
