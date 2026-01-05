@@ -33,3 +33,7 @@ Thumbs.db
 *.tmp
 *.log
 
+# Documentation files (local only)
+CODE_DOCUMENTATION.md
+PRESENTATION.md
+
